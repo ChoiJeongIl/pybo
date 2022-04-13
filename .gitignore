@@ -1,0 +1,4 @@
+.idea
+db.lite3
+*.pyc
+__pycache__
